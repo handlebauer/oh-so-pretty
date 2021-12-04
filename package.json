@@ -4,6 +4,9 @@
   "description": "Prettier configuration",
   "main": "index.json",
   "author": "Donald Geddes <handlebauer@protonmail.com>",
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "prettier": "^2.5.1"
   },

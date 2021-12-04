@@ -1,6 +1,6 @@
 {
   "name": "@hbauer/prettier-config",
-  "version": "0.0.0--ground-zero",
+  "version": "1.0.0",
   "description": "Prettier configuration",
   "main": "index.json",
   "author": "Donald Geddes <handlebauer@protonmail.com>",
